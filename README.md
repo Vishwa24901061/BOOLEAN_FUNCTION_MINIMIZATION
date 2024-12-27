@@ -96,11 +96,14 @@ ii)F2
 i)F1 
 
 
-![Screenshot 2024-12-16 082250](https://github.com/user-attachments/assets/00323f93-b83a-4b18-99c4-8c4a410f0ea3)
+![Screenshot 2024-12-16 082229](https://github.com/user-attachments/assets/cd30630f-14f4-4044-856f-920c65a021df)
+
 
 ii)F2
 
-![Screenshot 2024-12-16 082229](https://github.com/user-attachments/assets/cd30630f-14f4-4044-856f-920c65a021df)
+
+![Screenshot 2024-12-16 082250](https://github.com/user-attachments/assets/00323f93-b83a-4b18-99c4-8c4a410f0ea3)
+
 
 
 **Result:**
