@@ -30,6 +30,17 @@ ii)F2 TRUTHTABLE:
 
 ![Screenshot 2024-12-16 081944](https://github.com/user-attachments/assets/cb697db9-b680-4361-aeea-0f66a051265b)
 
+**boolean minimization**
+
+i)F1 
+
+![boolean minimization 1](https://github.com/user-attachments/assets/052e552e-6356-41c8-bccd-a9ba4afd4f44)
+
+ii)F2
+
+
+![boolean minization 2](https://github.com/user-attachments/assets/36e1d04d-e4c0-41fd-be28-e8bbcf4ae1a4)
+
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -70,17 +81,24 @@ endmodule
 
 **RTL**
 
+i)F1 
+
 
 ![Screenshot 2024-12-16 082201](https://github.com/user-attachments/assets/32891e57-61f9-4bc2-b385-613f9592aae6)
+
+ii)F2
 
 
 ![Screenshot 2024-12-16 082208](https://github.com/user-attachments/assets/6489de61-47ac-481f-b1ce-9a79aa0d5ad1)
 
 **Output:**
 
+i)F1 
+
 
 ![Screenshot 2024-12-16 082250](https://github.com/user-attachments/assets/00323f93-b83a-4b18-99c4-8c4a410f0ea3)
 
+ii)F2
 
 ![Screenshot 2024-12-16 082229](https://github.com/user-attachments/assets/cd30630f-14f4-4044-856f-920c65a021df)
 
